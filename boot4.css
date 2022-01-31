@@ -1,0 +1,8 @@
+.sidebar{
+    min-height: 100vh;
+    box-shadow: 10px 0px 10px -10px;
+}
+
+.cc{
+    border: none !important;
+}
